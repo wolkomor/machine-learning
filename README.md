@@ -6,6 +6,7 @@ The process of data mining includes the following steps:
   2. Data processing.
   3. Creating and selecting features.
   4. Modeling.
+
 In the modeling phase,  I compare the following models:
   1. Gaussian
   2. KNN
