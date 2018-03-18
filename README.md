@@ -1,4 +1,4 @@
-# project in machine learning
+# project - machine learning
 This project was done as part of data mining course in Tel-Aviv University. 
 This project deals with a binary classification problem. For classification problems, the prediction given as an answer to this question is one (or more) of a closed set of possible answers. The classification problem in the project is a binary classification problem in which products should be classified into two categories based on a number of features in the dataset that comes from the German company Otto Group.
 The process of data mining includes the following steps:
@@ -16,4 +16,3 @@ In the modeling phase,  I compare the following models:
   
 I Choose the model that will yield the highest value of AUC on the validation set.
 
-The included files are:
