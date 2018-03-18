@@ -15,3 +15,5 @@ In the modeling phase,  I compare the following models:
   5. Decision Tree
   
 I Choose the model that will yield the highest value of AUC on the validation set.
+
+The included files are:
